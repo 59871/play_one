@@ -15,7 +15,7 @@
     "adblock":"config/adblock.txt",
     "location_ver":2,
     "location":"config/location",
-    "launcher_image":"imgs/dashu.jpg"
+    "launcher_image":"imgs/dashu.jpg",
     "retry":3,
     "ad":1,
     "js":[
