@@ -16,6 +16,7 @@
     "location_ver":2,
     "location":"config/location",
     "launcher_image":"imgs/dashu.jpg",
+    "skip_time":5000,
     "retry":3,
     "ad":1,
     "js":[
