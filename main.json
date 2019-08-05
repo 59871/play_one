@@ -1,0 +1,40 @@
+{
+    "ver":1,
+    "desc":"第一次更新,祝好运!",
+    "download":"",
+    "index":"https://59421.github.io/web/",
+    "message":"",
+    "protocol":"本应用仅作为工具使用，并不储存任何视频资源，一切内容均来自第三方\n\n本应用的本意是为你创造更好的娱乐条件。\n\n但第三方内容是本应用无法控制的，所以对于应用内展示的一切内容，均不能保证其真实性。\n\n如果你因为盲目信从某些内容而导致自身利益受到损失，本应用概不负责。",
+    "js_ver":8,
+    "play_title":"绝对不要相信视频内嵌广告",
+    "validity_time":600000,
+    "share":"嘿，我向你分享一款很棒的应用【全网聚合】，有了它，观看影视不再麻烦，快打开 https://www.lanzous.com/i5bunhg，下载它吧。（如果你是用微信打开，还请在微信右上角菜单中选择【在浏览器中打开】）",
+    "my_title":"全网聚合-免费",
+    "my_desc":"本应用完全免费",
+    "ad_ver":1,
+    "adblock":"config/adblock.txt",
+    "location_ver":2,
+    "location":"config/location",
+    "retry":3,
+    "ad":1,
+    "js":[
+        "config/wen",
+        "config/jiexi"
+    ],
+    "check":[
+        "http[s]?://m.iqiyi.com/v_[\\w]+.html.*",
+        "http[s]?://m.youku.com/video/id_[\\w=]+.html.*",
+        "http[s]?://m.pptv.com/show/[\\w]+.html.*",
+        "http[s]?://m.le.com/vplay_[\\w]+.html.*",
+        "http[s]?://m.tv.sohu.com/v[\\w]+.shtml.*",
+        "http[s]?://m.film.sohu.com/album/[\\w]+.html.*",
+        "http[s]?://m.v.qq.com/play.html.*",
+        "http[s]://m.v.qq.com/x/cover/[\\w/]+.html.*",
+        "http[s]://m.v.qq.com/cover/[\\w]+/[\\w/]+.html.*",
+        "http[s]?://m.mgtv.com/b/[\\w/]+.html.*"
+    ],
+    "noremove":[
+        "http[s]?://m.v.qq.com/play.html.*",
+        "http[s]://m.v.qq.com/cover/[\\w]+/[\\w/]+.html.*"
+    ]
+}
