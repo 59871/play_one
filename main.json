@@ -18,9 +18,8 @@
     "retry":3,
     "ad":1,
     "js":[
-        "config/jiexi",
-        "config/wen"
-        
+        "config/wen",
+        "config/jiexi"
     ],
     "check":[
         "http[s]?://m.iqiyi.com/v_[\\w]+.html.*",
