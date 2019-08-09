@@ -40,5 +40,12 @@
     "noremove":[
         "http[s]?://m.v.qq.com/play.html.*",
         "http[s]://m.v.qq.com/cover/[\\w]+/[\\w/]+.html.*"
+    ],
+    "webset_ver":1,
+    "webset_host":[
+        "le.com"
+    ],
+    "webset_level":[
+        1
     ]
 }
