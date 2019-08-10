@@ -41,13 +41,19 @@
         "http[s]?://m.v.qq.com/play.html.*",
         "http[s]://m.v.qq.com/cover/[\\w]+/[\\w/]+.html.*"
     ],
-    "webset_ver":2,
+    "webset_ver":3,
     "webset_host":[
         "le.com",
-        "youku.com"
+        "youku.com",
+        "iqiyi.com",
+        "mgtv.com",
+        "qq.com"
     ],
     "webset_level":[
         1,
+        0,
+        1,
+        0,
         0
     ]
 }
