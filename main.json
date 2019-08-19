@@ -20,7 +20,7 @@
     "launcher_image":"imgs/dashu.jpg",
     "skip_time":5000,
     "retry":3,
-    "ad":1,
+    "ad":0,
     "buffer_time":1800000,
     "js":[
         "config/wen"
