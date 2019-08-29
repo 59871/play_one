@@ -13,7 +13,7 @@
     "my_desc":"为了防止应用被滥用，本应用用户达到一定量时，新来的用户将无法使用某些功能，如果你觉得本应用不错，就赶紧分享给朋友吧！",
     "ad_ver":13,
     "adblock":"config/adblock.txt",
-    "adblock_ver":17,
+    "adblock_ver":18,
     "adblock_js":"config/adblock",
     "location_ver":13,
     "location":"config/location",
