@@ -21,7 +21,9 @@
     "skip_time":5000,
     "retry":3,
     "ad":1,
-    "play_reg":".m3u8.mp4.avi.flv.rm.m4v.amv.mov.hdmov.mkv.mpe.mpg.ogv",
+    "play_reg":[
+        ".m3u8",".mp4",".avi",".flv",".rm",".m4v",".amv",".mov",".hdmov",".mkv",".mpe",".mpg",".ogv"
+    ],
     "buffer_time":1800000,
     "js":[
         "config/wen"
