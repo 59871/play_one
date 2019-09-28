@@ -27,7 +27,8 @@
     ],
     "buffer_time":3600000,
     "js":[
-		"config/ler"
+		"config/ler",
+        "config/wen"
     ],
     "check":[
         "http[s]?://m.iqiyi.com/v_[\\w]+.html.*",
