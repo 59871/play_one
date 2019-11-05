@@ -30,24 +30,11 @@
     "js":[
 		"config/ler"
     ],
-    "check":[
-        "http[s]?://m.iqiyi.com/v_[\\w]+.html.*",
-        "http[s]?://m.youku.com/video/id_[\\w=]+.html.*",
-        "http[s]?://m.pptv.com/show/[\\w]+.html.*",
-        "http[s]?://m.le.com/vplay_[\\w]+.html.*",
-        "http[s]?://m.tv.sohu.com/v[\\w]+.shtml.*",
-        "http[s]?://m.film.sohu.com/album/[\\w]+.html.*",
-        "http[s]?://m.v.qq.com/play.html.*",
-        "http[s]://m.v.qq.com/x/cover/[\\w/]+.html.*",
-        "http[s]://m.v.qq.com/cover/[\\w]+/[\\w/]+.html.*",
-        "http[s]?://m.mgtv.com/b/[\\w/]+.html.*"
-    ],
-    "noremove":[
-        "http[s]?://m.v.qq.com/play.html.*",
-        "http[s]://m.v.qq.com/cover/[\\w]+/[\\w/]+.html.*"
-    ],
+    "check":[],
+    "noremove":[],
     "webset_ver":8,
     "webset_host":[
+        "xiaogan.ga",
         "github.io",
         "le.com",
         "youku.com",
@@ -60,6 +47,7 @@
         "duowan.cn"
     ],
     "webset_level":[
+        -1,
         -1,
         1,
         0,
