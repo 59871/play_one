@@ -32,9 +32,10 @@
     ],
     "check":[],
     "noremove":[],
-    "webset_ver":8,
+    "webset_ver":9,
     "webset_host":[
         "xiaogan.ga",
+        "iwannafree.ml",
         "github.io",
         "le.com",
         "youku.com",
@@ -44,11 +45,13 @@
         "baidu.com",
         "mvcat.com",
         "nettv.live",
-        "duowan.cn"
+        "duowan.cn",
+        "ler.app"
     ],
     "webset_level":[
         -1,
         -1,
+        -1,
         1,
         0,
         1,
@@ -57,6 +60,7 @@
         0,
         1,
         0,
-        1
+        1,
+        0
     ]
 }
