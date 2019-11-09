@@ -32,10 +32,11 @@
     ],
     "check":[],
     "noremove":[],
-    "webset_ver":10,
+    "webset_ver":11,
     "webset_host":[
         "xiaogan.ga",
         "iwannafree.ml",
+        "taobao.com",
         "github.io",
         "le.com",
         "youku.com",
@@ -50,6 +51,7 @@
         "163.com"
     ],
     "webset_level":[
+        -1,
         -1,
         -1,
         0,
