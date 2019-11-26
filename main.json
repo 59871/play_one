@@ -12,7 +12,7 @@
     "validity_time":600000,
     "share":"嘿，我向你分享一款很棒的应用【全网影视聚合】，简直就是影娱全能，观影神器。快打开 https://www.lanzous.com/i7b7xoh ，下载它吧。（如果你是用微信打开，请直接复制链接在浏览器中访问!）",
     "my_title":"全网聚合-免费",
-    "my_desc":"好用就分享给朋友吧！",
+    "my_desc":"高级功能：高速加载、视频下载",
     "ad_ver":13,
     "adblock":"config/adblock.txt",
     "adblock_ver":39,
@@ -22,7 +22,7 @@
     "launcher_image":"imgs/goodmv.jpg",
     "skip_time":7000,
     "retry":2,
-    "ad":0,
+    "ad":1,
     "video_download":1,
     "play_reg":[
         ".m3u8",".mp4",".avi",".flv",".rm",".m4v",".amv",".mov",".hdmov",".mkv",".mpe",".mpg",".ogv",".sdp",".mp3",".m4a","ogg"
