@@ -33,13 +33,12 @@
     ],
     "check":[],
     "noremove":[],
-    "webset_ver":15,
+    "webset_ver":16,
     "webset_host":[
         "xiaogan.ga",
         "iwannafree.ml",
         "taobao.com",
         "dataoke.com",
-        "s.click.taobao.com",
         "github.io",
         "le.com",
         "youku.com",
@@ -55,7 +54,6 @@
         "miguvideo.com"
     ],
     "webset_level":[
-        -1,
         -1,
         -1,
         -1,
