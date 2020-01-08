@@ -1,3 +1,4 @@
+wx.sifakaoshi360.com
 activate.adobe.com
 ereg.adobe.com
 hlrcv.stage.adobe.com
