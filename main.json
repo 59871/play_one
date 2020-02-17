@@ -15,7 +15,7 @@
     "my_desc":"好用就分享给朋友吧!",
     "ad_ver":19,
     "adblock":"config/adblock.txt",
-    "adblock_ver":68,
+    "adblock_ver":69,
     "adblock_js":"config/adblock",
     "location_ver":13,
     "location":"config/location",
@@ -52,7 +52,8 @@
         "duowan.cn",
         "ler.app",
         "163.com",
-        "miguvideo.com"
+        "miguvideo.com",
+		"zhihu.com"
     ],
     "webset_level":[
         -1,
@@ -72,7 +73,8 @@
         1,
         0,
         0,
-        0
+        0,
+		0
     ],
 	"playhint":[
 		"加载太久了? 请退出重播吧",
