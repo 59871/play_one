@@ -33,7 +33,7 @@
     ],
     "check":[],
     "noremove":[],
-    "webset_ver":18,
+    "webset_ver":19,
     "webset_host":[
         "xiaogan.ga",
         "iwannafree.ml",
@@ -53,7 +53,9 @@
         "ler.app",
         "163.com",
         "miguvideo.com",
-		"zhihu.com"
+		"zhihu.com",
+		"xuetangx.com",
+		"icourse163.org"
     ],
     "webset_level":[
         -1,
@@ -74,6 +76,8 @@
         0,
         0,
         0,
+		0,
+		0,
 		0
     ],
 	"playhint":[
