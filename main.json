@@ -20,7 +20,7 @@
     "location_ver":13,
     "location":"config/location",
     "launcher_image":"imgs/goodmv.jpg",
-    "skip_time":7000,
+    "skip_time":5000,
     "retry":2,
     "ad":1,
     "video_download":1,
