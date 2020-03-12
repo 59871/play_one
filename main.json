@@ -25,7 +25,7 @@
     "ad":1,
     "video_download":1,
     "play_reg":[
-        ".m3u8",".mp4",".avi",".flv",".rm",".m4v",".amv",".mov",".hdmov",".mkv",".mpe",".mpg",".ogv",".sdp",".mp3",".m4a"
+        ".m3u8",".mp4",".avi",".flv",".rm",".m4v",".amv",".mov",".hdmov",".mkv",".mpe",".mpg",".ogv",".sdp",".mp3",".m4a","qyplay.php"
     ],
     "buffer_time":3600000,
     "js":[
