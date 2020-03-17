@@ -33,7 +33,7 @@
     ],
     "check":[],
     "noremove":[],
-    "webset_ver":20,
+    "webset_ver":21,
     "webset_host":[
         "xiaogan.ga",
         "iwannafree.ml",
@@ -81,7 +81,7 @@
 		0,
 		0,
 		0,
-		-1,
+		0,
 		0
     ],
 	"playhint":[
