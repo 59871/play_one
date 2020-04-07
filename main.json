@@ -22,10 +22,10 @@
     "launcher_image":"imgs/jhjc.jpg",
     "skip_time":3500,
     "retry":2,
-    "ad":1,
+    "ad":0,
     "video_download":1,
     "play_reg":[
-        ".m3u8",".mp4",".avi",".flv",".rm",".m4v",".amv",".mov",".hdmov",".mkv",".mpe",".mpg",".ogv",".sdp",".mp3",".m4a","qyplay.php"
+        ".m3u8",".mp4",".avi",".flv",".rm",".m4v",".amv",".mov",".hdmov",".mkv",".mpe",".mpg",".ogv",".sdp",".mp3",".m4a"
     ],
     "buffer_time":3600000,
     "js":[
@@ -33,7 +33,7 @@
     ],
     "check":[],
     "noremove":[],
-    "webset_ver":21,
+    "webset_ver":23,
     "webset_host":[
         "xiaogan.ga",
         "iwannafree.ml",
@@ -58,7 +58,8 @@
 		"icourse163.org",
 		"juhe.ml",
 		"douban.com",
-		"70url.com"
+		"70url.com",
+		"tongzhong.xyz"
     ],
     "webset_level":[
         -1,
@@ -83,7 +84,8 @@
 		0,
 		0,
 		-1,
-		0,
+		1,
+		1,
 		1
     ],
 	"playhint":[
