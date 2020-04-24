@@ -61,7 +61,8 @@
 		"70url.com",
 		"tongzhong.xyz",
 		"t.cn",
-		"yangkeduo.com"
+		"yangkeduo.com",
+		"pinduoduo.com"
     ],
     "webset_level":[
         -1,
@@ -90,6 +91,7 @@
 		1,
 		1,
 		0,
+		-1,
 		-1
     ],
 	"playhint":[
