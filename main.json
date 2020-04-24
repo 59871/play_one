@@ -33,7 +33,7 @@
     ],
     "check":[],
     "noremove":[],
-    "webset_ver":23,
+    "webset_ver":25,
     "webset_host":[
         "xiaogan.ga",
         "iwannafree.ml",
@@ -59,7 +59,9 @@
 		"juhe.ml",
 		"douban.com",
 		"70url.com",
-		"tongzhong.xyz"
+		"tongzhong.xyz",
+		"t.cn",
+		"yangkeduo.com"
     ],
     "webset_level":[
         -1,
@@ -86,7 +88,9 @@
 		-1,
 		1,
 		1,
-		1
+		1,
+		0,
+		-1
     ],
 	"playhint":[
 		"加载太久了? 请退出重播吧",
