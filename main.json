@@ -33,7 +33,7 @@
     ],
     "check":[],
     "noremove":[],
-    "webset_ver":26,
+    "webset_ver":27,
     "webset_host":[
         "xiaogan.ga",
         "iwannafree.ml",
@@ -62,7 +62,13 @@
 		"tongzhong.xyz",
 		"t.cn",
 		"yangkeduo.com",
-		"pinduoduo.com"
+		"pinduoduo.com",
+		"tophub.today",
+		"yxgapp.com",
+		"vmovier.com",
+		"yixi.tv",
+		"mvyxws.com",
+		"kepuchina.cn"
     ],
     "webset_level":[
         -1,
@@ -92,7 +98,13 @@
 		1,
 		0,
 		-1,
-		-1
+		-1,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0
     ],
 	"playhint":[
 		"加载太久了? 请退出重播吧",
